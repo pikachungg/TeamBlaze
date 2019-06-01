@@ -1,7 +1,4 @@
 /* =================================================================== 
- *
- *  Infinity v1.0 Main Stylesheet
- *  01-02-2017
  *  ------------------------------------------------------------------
  *
  *  TOC:
@@ -1489,9 +1486,9 @@ header .header-logo a {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 768px) {
   header .header-logo a {
-    width: 51px;
-    height: 24px;
-    background-size: 51px 24px;
+    width: 57px;
+    height: 57px;
+    background-size: 57px 57px;
   }
 }
 @media only screen and (max-width: 400px) {
@@ -2017,7 +2014,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   color: rgba(242, 242, 242, 0.5);
 }
 #portfolio .section-intro h1 {
-  color: #FFFFFF;
+  color: #ffad43;
 }
 #portfolio .section-intro .lead {
   color: rgba(242, 242, 242, 0.4);
@@ -2816,7 +2813,7 @@ footer .row {
   max-width: 1024px;
 }
 footer h4.h05 {
-  color: #FFFFFF;
+  color: #ffad43;
   position: relative;
   padding-bottom: 4.2rem;
   margin-bottom: 3.6rem;
@@ -2908,7 +2905,7 @@ footer h4.h05::after {
   content: "|";
   display: inline-block;
   padding: 0 1rem 0 1.2rem;
-  color: rgba(255, 255, 255, 0.1);
+  color: #ffad43;
 }
 .footer-bottom .copyright span:last-child::after {
   display: none;
